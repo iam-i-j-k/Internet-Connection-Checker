@@ -8,6 +8,7 @@ body{
     color: darkorange;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(to right, #795a96,#CBF1F5);
+    font-size: 2rem;
 }
 
 .box{
